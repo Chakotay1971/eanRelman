@@ -1,0 +1,70 @@
+CARSIZE,CURRENCYTYPE,DEST_AIRPORTCODE,DEST_DISPLAYNAMELOCAL,DEST_LATITUDE,DEST_LONGITUDE,E3ID,EMAINID,FLIGHTCARRIER,HOTELID,HOTELNAME,HOTELNIGHTS,ID,ISMOBILE,LATITUDE,LOB,LONGITUDE,ORIG_AIRPORTCODE,ORIG_DISPLAYNAMELOCAL,ORIG_LATITUDE,ORIG_LONGITUDE,POSSHORT,TEALEAFTIMESTAMPPST
+,USD,LAS,Las Vegas NV (LAS-McCarran Intl.),36.08539300,-115.15009800,97526753,,VX,203613,Mandalay Bay Resort And Casino,2,97526753,0,36.091961,pkgflthot,-115.173037,SFO,San Francisco CA (SFO-San Francisco Intl.),37.61594000,-122.38799600,.com,2014-04-17 15:33:24.0
+,USD,PUJ,Punta Cana (PUJ-Punta Cana Intl.),18.56170500,-68.36349500,97526699,,DL,662588,Dreams La Romana - Luxury All Inclusive,4,97526699,0,18.378919,pkgflthot,-68.845271,JFK,New York NY (JFK-John F. Kennedy Intl.),40.64416600,-73.78254800,.com,2014-04-17 15:32:56.0
+,MXN,LAS,Las Vegas NV (LAS-McCarran Intl.),36.08539300,-115.15009800,97526739,,AA,24715,Circus Circus Hotel & Casino,4,97526739,0,36.136361,pkgflthot,-115.162247,ELP,El Paso TX (ELP-El Paso Intl.),31.79893000,-106.39565000,.mx,2014-04-17 15:33:16.0
+,USD,YYC,Calgary AB (YYC-Calgary Intl.),51.13079000,-114.00890000,97526705,,DL,518726,Executive Royal Inn Hotel & Conference Centre in Calgary,3,97526705,0,51.077520,pkgflthot,-114.004960,CWA,Wausau WI (CWA-Central Wisconsin),44.78436000,-89.67209000,.com,2014-04-17 15:33:06.0
+,USD,GSO,Greensboro NC (GSO-Piedmont Triad Intl.),36.10562300,-79.93739800,97526712,,UA,2602,Quality Inn & Suites Coliseum,2,97526712,0,36.045560,pkgflthot,-79.836860,BTV,Burlington VT (BTV-Burlington Intl.),44.46901700,-73.15530800,.com,2014-04-17 15:33:04.0
+,USD,AUA,Oranjestad (AUA-Queen Beatrix Intl.),12.50416600,-70.00752200,97526621,,UA,424923,Occidental Grand Aruba - All Inclusive,5,97526621,0,12.569737,pkgflthot,-70.044909,EWR,Newark NJ (EWR-Liberty Intl.),40.69085000,-74.17747000,.com,2014-04-17 15:32:32.0
+,USD,TRN,Turin (TRN-Turin Intl.),45.19173600,7.64354000,97526683,,AZ,12165,Hotel Diplomatic,4,97526683,0,45.073230,pkgflthot,7.669510,SUF,Lamezia Terme (SUF-Lamezia Terme Intl.),38.90969400,16.24529500,.com,2014-04-17 15:32:39.0
+,USD,BOS,Boston MA (BOS-Logan Intl.),42.36557900,-71.01822400,97526599,,AC,19493,Red Roof Inn Boston - Framingham,8,97526599,0,42.308019,pkgflthot,-71.385496,YYZ,Toronto ON (YYZ-Pearson Intl.),43.68146000,-79.61142000,.com,2014-04-17 15:32:21.0
+,DKK,TLL,Tallinn (TLL-Lennart Meri),59.41654600,24.79918400,97526610,,SK,1346333,Savoy Boutique Hotel,4,97526610,0,59.435061,pkgflthot,24.746619,CPH,Copenhagen (CPH-Kastrup),55.62872000,12.64776000,.dk,2014-04-17 15:32:12.0
+,USD,IND,Indianapolis IN (IND-Indianapolis Intl.),39.73016000,-86.27311000,97526580,,AA,855753,Relax Inn,3,97526580,0,39.483400,pkgflthot,-86.018110,ELP,El Paso TX (ELP-El Paso Intl.),31.79893000,-106.39565000,.com,2014-04-17 15:32:09.0
+,EUR,,,,,97509762,,,1379469,Rabbit Resort Pattaya,3,97509762,0,12.90276,hot,100.86359,,,,,.fr,49:21.0
+,USD,,,,,97509742,,,11056,Hotel Paradox,1,97509742,0,36.977175,hot,-122.020412,,,,,.com,49:20.0
+,USD,,,,,97509743,,,4675,Best Western Rosslyn/Iwo Jima,4,97509743,0,38.89186,hot,-77.0736,,,,,.com,49:20.0
+,USD,,,,,97509779,,,20976,Sheraton Arlington,3,97509779,0,32.757408,hot,-97.080216,,,,,.com,49:21.0
+,USD,,,,,97509752,,,487027,Torre De Cali Plaza Hotel,1,97509752,0,3.458686,hot,-76.528773,,,,,.com,49:24.0
+,USD,,,,,97509763,,,7643,Crowne Plaza Heidelberg City Centre,4,97509763,0,49.406952,hot,8.691489,,,,,.com,49:24.0
+,USD,,,,,97509765,,,41308,Excalibur Hotel Casino,1,97509765,0,36.099212,hot,-115.1731,,,,,.com,49:28.0
+,GBP,,,,,97509749,,,2540135,Hotel Divinus,6,97509749,0,47.54912,hot,21.62884,,,,,.uk,49:29.0
+,EUR,,,,,97509776,,,22602,Mercure Paris Velizy,2,97509776,0,48.77884,hot,2.21567,,,,,.de,49:29.0
+,USD,,,,,97509753,,,200677,Grand Pacific Palisades Resort & Hotel,2,97509753,0,33.125288,hot,-117.314727,,,,,.com,49:31.0
+,USD,,,,,97509769,,,67068,Grand Casino Biloxi,1,97509769,0,30.392288,hot,-88.864138,,,,,.com,49:32.0
+,USD,,,,,97509764,,,3097085,Hotel Royalty,4,97509764,0,19.04171,hot,-98.19908,,,,,.com,49:33.0
+,USD,,,,,97509796,,,62824,The Penguin Hotel,2,97509796,1,25.785829,hot,-80.12961,,,,,.com,49:35.0
+,USD,,,,,97509793,,,26760,The Westin St Francis on Union Square,1,97509793,0,37.78773,hot,-122.40822,,,,,.com,49:37.0
+,USD,,,,,97509778,,,560,Hotel Manoir Victoria,1,97509778,0,46.81461,hot,-71.21054,,,,,.com,49:38.0
+,USD,,,,,97509792,,,57329,Vagabond Inn Chico,6,97509792,0,39.72741,hot,-121.83704,,,,,.com,49:38.0
+,USD,,,,,97509816,,,19558,LVH - Las Vegas Hotel & Casino - formerly Las Vegas Hilton,1,97509816,1,36.136033,hot,-115.154706,,,,,.com,49:38.0
+,USD,,,,,97509798,,,8398,Sheraton Denver Downtown Hotel,2,97509798,0,39.74236,hot,-104.988875,,,,,.com,49:39.0
+,USD,,,,,97509799,,,459804,Super 8 Motel - Superior,1,97509799,0,46.6786,hot,-92.0113,,,,,.com,49:42.0
+,USD,,,,,97509811,,,10376,Ramada Lakeland Hotel,1,97509811,0,28.083842,hot,-81.969105,,,,,.com,49:42.0
+,USD,,,,,97509822,,,23406,Hotel Nikko San Francisco,1,97509822,1,37.785683,hot,-122.409575,,,,,.com,49:43.0
+,USD,,,,,97509814,,,48851,Hotel Suizo,1,97509814,0,41.383861,hot,2.17837,,,,,.com,49:44.0
+,USD,,,,,97509823,,,7893,La Quinta Inn Nashville-Airport/Opryland,1,97509823,0,36.155324,hot,-86.690779,,,,,.com,49:47.0
+,USD,,,,,97509848,,,795678,Howard Johnson Shreveport,1,97509848,0,32.45109,hot,-93.85791,,,,,.com,49:50.0
+,CAD,,,,,97509831,,,36513,Best Western Plus Charter House Hotel Downtown Winnipeg,2,97509831,0,49.88905,hot,-97.14121,,,,,.ca,49:51.0
+,USD,,,,,97509841,,,7420,Four Points By Sheraton Pittsburgh Airport,2,97509841,1,40.4661,hot,-80.19897,,,,,.com,49:52.0
+,CAD,,,,,97509861,,,23385,Lakeview Inn and Suites Miramichi,4,97509861,0,46.988183,hot,-65.57631,,,,,.ca,49:52.0
+,CAD,,,,,97509838,,,1265326,Hampton Inn Madison Square Garden Area Hotel,2,97509838,0,40.748256,hot,-73.990032,,,,,.ca,49:53.0
+,USD,,,,,97509826,,,867318,Fairfield Inn & Suites Newark Liberty International Airport,1,97509826,0,40.70877,hot,-74.17375,,,,,.com,49:54.0
+,USD,,,,,97509833,,,2733280,Residence Inn by Marriott Harrisonburg,3,97509833,0,38.428136,hot,-78.850773,,,,,.com,49:55.0
+,USD,,,,,97509844,,,1184243,Wynn Las Vegas,2,97509844,0,36.127548,hot,-115.167795,,,,,.com,49:55.0
+,USD,,,,,97509847,,,907760,Residence Inn by Marriott Colorado Springs North,1,97509847,0,38.9878,hot,-104.80274,,,,,.com,49:55.0
+,USD,,,,,97509843,,,17732,Shell Island Resort,1,97509843,0,34.23428,hot,-77.77737,,,,,.com,49:56.0
+,USD,,,,,97509862,,,9876,Quality Inn Yakima,1,97509862,0,46.563011,hot,-120.476821,,,,,.com,49:58.0
+,USD,,,,,97509879,,,21065,Hotel Elan,1,97509879,0,37.318299,hot,-121.875915,,,,,.com,50:01.0
+,CAD,,,,,97509895,,,17117,Le Centre Sheraton Montreal Hotel,2,97509895,0,45.49772,hot,-73.57139,,,,,.ca,50:01.0
+,GBP,,,,,97509856,,,2847168,Hotel Danaos,8,97509856,0,35.513869,hot,24.006795,,,,,.uk,50:02.0
+,USD,,,,,97509884,,,1823665,Wingate by Wyndham Columbia / Lexington,3,97509884,0,34.01183,hot,-81.15167,,,,,.com,50:02.0
+,BRL,,,,,97509890,,,521284,Hotel Jorge V,5,97509890,0,38.721388,hot,-9.149231,,,,,.br,50:02.0
+,USD,,,,,97509864,,,28025,Westin Tysons Corner,2,97509864,0,38.90758,hot,-77.21526,,,,,.com,50:03.0
+,GBP,,,,,97509870,,,4650738,Super Horizont Stobrec,5,97509870,0,43.501321,hot,16.511829,,,,,.uk,50:07.0
+,EUR,,,,,97509894,,,6966,3.14 Hotel,3,97509894,0,43.55028,hot,7.02703,,,,,.it,50:08.0
+,USD,,,,,97509889,,,4044,San Mateo Marriott San Francisco Airport,3,97509889,0,37.556767,hot,-122.300253,,,,,.com,50:12.0
+,USD,,,,,97509901,,,6058,Best Western Plus Pavilions,4,97509901,0,33.803183,hot,-117.924814,,,,,.com,50:14.0
+,USD,,,,,97509907,,,25622,Hilton San Francisco Union Square,1,97509907,0,37.78616,hot,-122.41018,,,,,.com,50:14.0
+,EUR,,,,,97509914,,,6849,La Quinta Inn & Suites Myrtle Beach at 48th Avenue,5,97509914,0,33.722542,hot,-78.847962,,,,,.de,50:19.0
+,EUR,,,,,97509910,,,4150907,Il Girna Residence,1,97509910,0,36.022985,hot,14.25012,,,,,.it,50:20.0
+,USD,,,,,97526237,,,523352,Best Western Arlanda Hotellby,1,97526237,0,59.620755,hot,17.873439,,,,,.com,2014-04-17 15:29:47.0
+,USD,,,,,97526246,,,25888,Wellington Hotel,2,97526246,0,40.764460,hot,-73.980820,,,,,.com,2014-04-17 15:29:53.0
+,USD,,,,,97526260,,,67445,Holiday Inn Express Greer-Taylors,1,97526260,1,34.941680,hot,-82.259830,,,,,.com,2014-04-17 15:29:59.0
+,USD,,,,,97526251,,,40817,DoubleTree by Hilton Fort Lee - George Washington Bridge,2,97526251,0,40.860527,hot,-73.975937,,,,,.com,2014-04-17 15:30:00.0
+,USD,,,,,97526256,,,2039863,Holiday Inn Express New York City Times Square,2,97526256,0,40.756194,hot,-73.993219,,,,,.com,2014-04-17 15:30:00.0
+,USD,,,,,97526259,,,42098,Sleep Inn Pueblo,1,97526259,0,38.311230,hot,-104.614090,,,,,.com,2014-04-17 15:30:00.0
+,JPY,,,,,97526268,,,181204,Quality Inn I-5 Near Camp Pendleton,6,97526268,0,33.201150,hot,-117.370100,,,,,.jp,2014-04-17 15:30:02.0
+,USD,,,,,97526270,,,50901,Ashmore Inn and Suites,1,97526270,0,33.529250,hot,-101.902090,,,,,.com,2014-04-17 15:30:04.0
+,USD,,,,,97526275,,,1068939,DoubleTree Fallsview Resort & Spa by Hilton Niagara Falls,1,97526275,0,43.087460,hot,-79.083340,,,,,.com,2014-04-17 15:30:04.0
+,SGD,,,,,97526551,,,21466,Corus Hotel Kuala Lumpur,1,97526551,0,3.159767,hot,101.715098,,,,,.sg,2014-04-17 15:32:05.0
+,USD,,,,,97526776,,,1768935,Hampton Inn & Suites Fort Worth-West-I-30,3,97526776,0,32.735090,hot,-97.434590,,,,,.com,2014-04-17 15:33:47.0
+,EUR,,,,,97526789,,,2526603,Bed & Breakfast Giardini,1,97526789,0,45.432189,hot,12.355985,,,,,.it,2014-04-17 15:33:52.0

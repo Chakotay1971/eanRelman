@@ -1,0 +1,30 @@
+body {
+  padding-top: 50px;
+}
+.brand-template {
+  background:url('../images/eanback.png') no-repeat;
+  padding: 40px 15px;
+  text-align: center;
+}
+.plane-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.release-template {
+  height: 800;
+  width: 1200;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.rfc-template {
+  height: 800;
+  width: 600;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
