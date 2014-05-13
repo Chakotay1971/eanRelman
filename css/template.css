@@ -1,19 +1,21 @@
 body {
   padding-top: 50px;
 }
+
 .brand-template {
   background:url('../images/eanback.png') no-repeat;
   padding: 40px 15px;
   text-align: center;
 }
+
 .plane-template {
   padding: 40px 15px;
   text-align: center;
 }
 
 .release-template {
-  height: 800;
-  width: 1200;
+  height: 100;
+  width: 100;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -21,10 +23,50 @@ body {
 }
 
 .rfc-template {
-  height: 800;
-  width: 600;
+  width: 1300px;
   padding-right: 15px;
   padding-left: 15px;
+  padding-top: 100px;
   margin-right: auto;
   margin-left: auto;
+}
+
+
+.node {
+   cursor: pointer;
+ }
+
+.overlay{
+    background-color:white;
+}
+ 
+.node circle {
+  fill: #999;
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+ 
+.node text {
+  font-size:10px; 
+  font-family:sans-serif;
+}
+ 
+.link {
+  fill: none;
+  stroke: #999;
+  stroke-width: .5px;
+}
+
+.templink {
+  fill: none;
+  stroke: red;
+  stroke-width: 1px;
+}
+
+.ghostCircle.show{
+    display:block;
+}
+
+.ghostCircle, .activeDrag .ghostCircle{
+     display: none;
 }

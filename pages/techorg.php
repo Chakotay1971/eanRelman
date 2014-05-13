@@ -1,21 +1,36 @@
 <html lang="en">
 	<head>
-  <meta charset="utf-8">
+ 	<meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
   <meta name="author" content="">
-  <link rel="shortcut icon" href="../ico/eanicon.jpg">
+
+  <link rel="shortcut icon" href="ico/eanicon.jpg">
+
+  <title>Expedia Affiliate Network Release & Change Management</title>
 
   <link href="../css/bootstrap.css" rel="stylesheet">
+  <link href="../css/jquery.spacetree.css" rel="stylesheet" media="screen" />
 
-  <script type="text/javascript" language="javascript" src="../js/iframe.js"></script>
-	
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	
-	</head>
 
-	<body onload='javascript:resizeIframe(this);'>
+		<script type="text/javascript" language="javascript" src="../js/jquery.js"></script>
+  <script type="text/javascript" language="javascript" src="../js/jit.js"></script>
+  <script type="text/javascript" language="javascript" src="../js/jquery.spacetree.js"></script>
+  <script type="text/javascript" language="javascript" src="../js/iframe.js"></script>
+
+  <script type="text/javascript">
+  $(document).ready(function (){
+      $('#tree').spacetree('#spacetree').hide();
+  });
+  </script>
+
+ </head>
+ <body onload='javascript:resizeIframe(this);'>
 		<div class="container">
+			<div class="alert alert-warning" style="text-align:center;">
+				This is an interactive org chart for Technology. Nodes below Stuart's directs are collapsed but can be expanded. You can print out a text only version <a href="org.php" target=_blank>here</a>
+			</div>
 	  <div id="tree">
 		  <div id="root">Stuart Silberg </br> Vice President </br> Tech/Product</div>
 			  <ul>
@@ -377,14 +392,8 @@
 		      <li>
 		       <div id="subchild701">Jonathan Webster </br> Snr. Manager </br> Template & Price</div>
 		        <ul>
-		         <li>
-		          <div id="subchild721">Louise King </br> Snr. Business Analyst</div>
-		         </li>
 			        <li>
 		          <div id="subchild722">Satyen Barve </br> Snr. TPM</div>
-		         </li>
-			        <li>
-		          <div id="subchild723">OPEN </br> TPM </br> Pricing</div>
 		         </li>
 		        </ul>
 		      </li>
@@ -395,7 +404,7 @@
 		          <div id="subchild731">Chandrika Duggirala </br> Product Manager</div>
 		         </li>
 			        <li>
-		          <div id="subchild733">OPEN </br> TPM </br> Pricing</div>
+		          <div id="subchild733">OPEN </br> TPM </br> Booking</div>
 		         </li>
 		        </ul>
 		      </li>
@@ -437,13 +446,25 @@
 		         </li>
 		        </ul>
 		      </li>
-		      </li>
+								<li>
+         <div id="subchild707">Louise King </br> Snr. Business Analyst</div>
+	        <ul>
+		        <li>
+	          <div id="subchild781">OPEN </br> TPM </br> Pricing</div>
+	         </li>
+	        </ul>
+        </li>
 		     </ul>
       </li>
      </ul>
     </li>
 	  </div>
-				</div>
-			</body>
-	</html>
-	
+	  <div id="spacetree">
+	  </div>
+			<hr>
+				<footer>
+						<p>&copy; http://release.ean.karmalab.net</p>
+				</footer>
+		</div>
+	</body>
+</html>

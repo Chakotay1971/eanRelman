@@ -64,7 +64,7 @@
 		// use wordwrap() if lines are longer than 70 characters
 		$msg = wordwrap($msg,70);
 		// send email
-		mail("eanrelman@expedia.com,$email","Request For Change",$msg);
+		mail("tannan@expedia.com","Request For Change",$msg);
 		$emailSent = true; 
 	}
 	?>
@@ -134,13 +134,9 @@
 														    </div>
 														    <script type="text/javascript">
 														      $('#datetimepicker1').datetimepicker({
-	                    pickDate: false,
-																						minuteStepping:15,
-																						format: 'hh:mm',
-																						pickTime: true,
-																						defaultDate: new Date(1979, 0, 1, 8, 0, 0, 0),
-																						language:'en',
-																						use24hours: true														      
+														        format: 'HH:mm',
+														        pickDate: false,
+														        language: 'pt-UK'
 														      });
 														    </script>
 														    <div id="datetimepicker2" class="input-append date">
@@ -152,14 +148,10 @@
 														    </div>
 														    <script type="text/javascript">
 														      $('#datetimepicker2').datetimepicker({
-	                    pickDate: false,
-																						minuteStepping:15,
-																						format: 'hh:mm',
-																						pickTime: true,
-																						defaultDate: new Date(1979, 0, 1, 8, 0, 0, 0),
-																						language:'en',
-																						use24hours: true														      
-																				});
+														        format: 'HH:mm',
+														        pickDate: false,
+														        language: 'pt-UK'
+														      });
 														    </script>
 
 				              <label for="weburl">PCI or Legal<span class="help-required"></span></label>
